@@ -1,7 +1,7 @@
 ---
-title: The Good Life
+title: The Wise Life
 author: Mitchell Starrenburg
 date: 2024-02-05
-category: Book1-TheGoodLife
+category: Book3-TheWiseLife
 layout: page
 ---
