@@ -58,6 +58,8 @@ collections:
   Book1-TheGoodLife:
     output: true
     permalink: /:collection/:path/
+    order: 
+     - Book1-TheGoodLife.md
   Book2-TheVirtuousLife:
     output: true
     permalink: /:collection/:path/
