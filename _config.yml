@@ -55,9 +55,25 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
+  Book1-TheGoodLife:
+    output: true
+    permalink: /:collection/:path/
+  Book2-TheVirtuousLife:
+    output: true
+    permalink: /:collection/:path/
+  Book3-TheWiseLife:
+    output: true
+    permalink: /:collection/:path/
+  Book4-TheSkilledLife:
+    output: true
+    permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
+  #- posts
+  - Book1-TheGoodLife
+  - Book2-TheVirtuousLife
+  - Book3-TheWiseLife
+  - Book4-TheSkilledLife
   - pages
   - others
 
