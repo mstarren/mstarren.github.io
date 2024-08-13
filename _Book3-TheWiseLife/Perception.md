@@ -1,3 +1,10 @@
+---
+title: Perception
+author: Mitchell Starrenburg
+category: Book3-TheWiseLife
+layout: page
+---
+
 # **Belief & Opinion**
 
 It’s important to distinguish between objective truths and subjective values.
