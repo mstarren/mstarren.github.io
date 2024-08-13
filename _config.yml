@@ -57,18 +57,16 @@ collections:
     permalink: /:collection/:path/
   Book1-TheGoodLife:
     output: true
-    permalink: /:collection/:path/
-    order: 
-     - Book1-TheGoodLife.md
+    #permalink: /:collection/:path/
   Book2-TheVirtuousLife:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
   Book3-TheWiseLife:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
   Book4-TheSkilledLife:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
 
 ordered_collections:
   - posts
