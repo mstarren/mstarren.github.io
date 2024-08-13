@@ -8,6 +8,8 @@ layout: post
 
 # Perception
 
+---
+
 ## Belief & Opinion
 
 It’s important to distinguish between objective truths and subjective values.
@@ -50,6 +52,8 @@ Be careful of those who conflate the two; at best it’s a grave error in though
 -   It’s not possible to hold a belief on a subjective matter. It’s not correct to consider subjective matters as truth or knowledge.
 
 Notice the difference you feel between those two statements. The world is full of individuals and groups trying to impose their subjective positions (values, preferences, morals) onto others by manipulating language to attempt to have those subjective positions treated as if they’re objective.
+
+---
 
 ## Ethics of Belief
 
