@@ -8,7 +8,7 @@ layout: post
 
 # Perception
 
----
+----
 
 ## Belief & Opinion
 
@@ -53,7 +53,7 @@ Be careful of those who conflate the two; at best it’s a grave error in though
 
 Notice the difference you feel between those two statements. The world is full of individuals and groups trying to impose their subjective positions (values, preferences, morals) onto others by manipulating language to attempt to have those subjective positions treated as if they’re objective.
 
----
+----
 
 ## Ethics of Belief
 
