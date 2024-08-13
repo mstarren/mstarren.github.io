@@ -86,3 +86,33 @@ The judgement of how unethical the act of belief is thus proportional to the mag
 
 1.  the confidence in accuracy and specificity of the holder of this belief, and
 2.  the confidence reasonably afforded by the reasoned/measured accuracy and specificity of the method used to judge it’s validity.
+
+----
+
+# Perspective
+
+## **Lessons**
+
+### Life is disappointing [🎬](https://www.youtube.com/watch?v=lNdgT6VCuu0)
+
+Things don’t get better, you just get better at dealing with them.
+
+### People are a bit shit
+
+Nobody really knows what they’re doing; the people that believe they do are simply arrogant and unaware of the ways in which they’re incompetent.
+
+### Everything changes
+
+Nothing is forever, everything is in flux; be flexible and adapt, or you will be left behind.
+
+### Suffering is (often) a choice
+
+Suffering happens when you care, so care wisely.
+
+### There is no” You”, nor “I”
+
+“You” is just a story that you tell yourself. Where you end and the outside world begins is an artificial distinction.
+
+### You are not that important
+
+People don’t think about you nearly as much as you think they do; you are a tiny, insignificant, ephemeral speck in a vast, cold, empty, uncaring universe.
